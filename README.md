@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2442,3 +2443,7 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# react_creation_de_composant
+Critéres de validation Le composant est dans une classe javascript ES6 L'appel du composant ressemble à &lt;Author name="Bob" /> Au clic sur le composant le nom de l'auteur s'affiche
+>>>>>>> d500a48f32aea748de21aa9d490a37947dd68269
